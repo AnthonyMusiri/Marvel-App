@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863386737234",
+    "project_id": "marvelapp-5ae50",
+    "storage_bucket": "marvelapp-5ae50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863386737234:android:71f6d9dc42eb88aefd9d8b",
+        "android_client_info": {
+          "package_name": "com.example.marvelstudios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBj5qCY5SKku8H8k3S_8cB8ePUYO0Mdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
